@@ -1,0 +1,12 @@
+
+PORT=3000
+PUBLIC_PATH=public
+
+POSTGRES_URL=postgresql://postgres:1234@localhost:5432/sigproject-db
+# POSTGRES_URL=postgres://default:JOjtNkoqXM08@ep-proud-union-82271029.us-east-1.postgres.vercel-storage.com:5432/verceldb
+POSTGRES_USER=postgres
+POSTGRES_DB=sigproject-db
+POSTGRES_PORT=5432
+POSTGRES_PASSWORD=1234
+
+NODE_ENV=development
