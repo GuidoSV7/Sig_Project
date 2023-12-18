@@ -24,4 +24,42 @@ model User {
   idrol    Int
   createdAt DateTime   @default(now())  
   Rol       Rol        @relation(fields: [idrol], references: [id])
+
 }
+
+
+
+model Product{
+  id        Int        @id @default(autoincrement())
+  name      String
+  description      String
+  price     Float
+  createdAt DateTime   @default(now())
+  Inventory Inventory[]
+  
+}
+
+model Stand{
+  id        Int        @id @default(autoincrement())
+  name      String
+  owner     String
+  image     String
+  direction String
+  longitude Float
+  latitude Float
+  createdAt DateTime   @default(now())
+  Inventory Inventory[]
+
+}
+
+model Inventory{
+  id        Int        @id @default(autoincrement())
+  idproduct Int
+  idstand   Int
+  amount  Int
+  createdAt DateTime   @default(now())
+  Product   Product    @relation(fields: [idproduct], references: [id])
+  Stand     Stand      @relation(fields: [idstand], references: [id])
+}
+
+
