@@ -12,7 +12,7 @@ export class RouteGeoRoutes {
         const reoutegeoController = new RoutegeoController();
 
          //Personales
-        router.get('/pointgeosbyid/:id', reoutegeoController.getPolilineas);
+        router.post('/polilineas', reoutegeoController.getPolilineas);
 
 
        

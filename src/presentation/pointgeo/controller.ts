@@ -18,9 +18,6 @@ export class PointgeoController {
         });
         return res.status(200).json(pointegos);
 
-        
-
-        
     }   
 
     
