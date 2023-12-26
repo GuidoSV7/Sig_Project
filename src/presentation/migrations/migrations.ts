@@ -2118,6 +2118,1208 @@ export class MigrationController {
             nrStand: '119',
             nameEntrance: 'A'
           },
+
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946676,
+            latitude: -17.78044311,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18943574,
+            latitude: -17.78044280,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18917853,
+            latitude: -17.78098488,
+            nrStand: "1",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "1",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18943610,
+            latitude: -17.78042052,
+            nrStand: "1",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "1",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "1",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18917853,
+            latitude: -17.78098488,
+            nrStand: "1",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "1",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18917853,
+            latitude: -17.78098488,
+            nrStand: "1",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18917853,
+            latitude: -17.78098488,
+            nrStand: "1",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "3A",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "3A",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18975217,
+            latitude: -17.78041426,
+            nrStand: "3A",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "3A",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18978881,
+            latitude: -17.78041519,
+            nrStand: "3A",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "3A",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "3A",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18979069,
+            latitude: -17.78099901,
+            nrStand: "3A",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18980016,
+            latitude: -17.78041634,
+            nrStand: "3A",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "3A",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "3A",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "3A",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "3A",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18975217,
+            latitude: -17.78041426,
+            nrStand: "3A",
+            nameEntrance: "C"
+          },
+
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "6",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "6",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946676,
+            latitude: -17.78044311,
+            nrStand: "6",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18943574,
+            latitude: -17.78044280,
+            nrStand: "6",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "6",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "6",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "6",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18943610,
+            latitude: -17.78042052,
+            nrStand: "6",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "6",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "6",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "6",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "6",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "6",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "6",
+            nameEntrance: "E"
+          },
+
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "7",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "7",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "7",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "7",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "7",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18943610,
+            latitude: -17.78042052,
+            nrStand: "7",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "7",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "7",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "7",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "7",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "7",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18924880,
+            latitude: -17.78099938,
+            nrStand: "7",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "13",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "13",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946676,
+            latitude: -17.78044311,
+            nrStand: "13",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18943574,
+            latitude: -17.78044280,
+            nrStand: "13",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "13",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18930650,
+            latitude: -17.78099954,
+            nrStand: "13",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "13",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18943610,
+            latitude: -17.78042052,
+            nrStand: "13",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "13",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18930650,
+            latitude: -17.78099954,
+            nrStand: "13",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "13",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "13",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18930650,
+            latitude: -17.78099954,
+            nrStand: "13",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18930650,
+            latitude: -17.78099954,
+            nrStand: "13",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "16",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "16",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "16",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18933926,
+            latitude: -17.78099962,
+            nrStand: "16",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "16",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18943610,
+            latitude: -17.78042052,
+            nrStand: "16",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942682,
+            latitude: -17.78099986,
+            nrStand: "16",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18933926,
+            latitude: -17.78099962,
+            nrStand: "16",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "16",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "16",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18933926,
+            latitude: -17.78099962,
+            nrStand: "16",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18933926,
+            latitude: -17.78099962,
+            nrStand: "16",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18947655,
+            latitude: -17.78105695,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18942846,
+            latitude: -17.78105628,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18942746,
+            latitude: -17.78113185,
+            nrStand: "24",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18947655,
+            latitude: -17.78105695,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942846,
+            latitude: -17.78105628,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18942746,
+            latitude: -17.78113185,
+            nrStand: "24",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "24",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18920624,
+            latitude: -17.78105315,
+            nrStand: "24",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18942846,
+            latitude: -17.78105628,
+            nrStand: "24",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18942746,
+            latitude: -17.78113185,
+            nrStand: "24",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18947655,
+            latitude: -17.78105695,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18942846,
+            latitude: -17.78105628,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18942746,
+            latitude: -17.78113185,
+            nrStand: "24",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "30",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "30",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "30",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "30",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18951774,
+            latitude: -17.78102809,
+            nrStand: "30",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "30",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "30",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "30",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "30",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18951774,
+            latitude: -17.78102809,
+            nrStand: "30",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "30",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "30",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "30",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "30",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18951774,
+            latitude: -17.78102809,
+            nrStand: "30",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "30",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "30",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "30",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "30",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18951774,
+            latitude: -17.78102809,
+            nrStand: "30",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "60",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18980016,
+            latitude: -17.78041634,
+            nrStand: "60",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18979127,
+            latitude: -17.78095764,
+            nrStand: "60",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "60",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "60",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18980016,
+            latitude: -17.78041634,
+            nrStand: "60",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18979127,
+            latitude: -17.78095764,
+            nrStand: "60",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.78099930,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103000,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18979069,
+            latitude: -17.78099901,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18979127,
+            latitude: -17.78095764,
+            nrStand: "60",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.78102890,
+            nrStand: "60",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "60",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18979069,
+            latitude: -17.78099901,
+            nrStand: "60",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18979127,
+            latitude: -17.78095764,
+            nrStand: "60",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18985579,
+            latitude: -17.78041643,
+            nrStand: "61",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18980016,
+            latitude: -17.78041634,
+            nrStand: "61",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18979921,
+            latitude: -17.78044401,
+            nrStand: "61",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.1897421,
+            latitude: -17.78044305,
+            nrStand: "61",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.1897423,
+            latitude: -17.78092278,
+            nrStand: "61",
+            nameEntrance: "A"
+          },
+          {
+            longitude: -63.18946992,
+            latitude: -17.78033721,
+            nrStand: "61",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18949692,
+            latitude: -17.78041586,
+            nrStand: "61",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18972972,
+            latitude: -17.78041623,
+            nrStand: "61",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.1897421,
+            latitude: -17.78044305,
+            nrStand: "61",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.1897423,
+            latitude: -17.78092278,
+            nrStand: "61",
+            nameEntrance: "G"
+          },
+          {
+            longitude: -63.18914766,
+            latitude: -17.78102462,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18921959,
+            latitude: -17.7809993,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18948264,
+            latitude: -17.78100001,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18949321,
+            latitude: -17.78102785,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18971592,
+            latitude: -17.78103,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.1897423,
+            latitude: -17.78092278,
+            nrStand: "61",
+            nameEntrance: "C"
+          },
+          {
+            longitude: -63.18990433,
+            latitude: -17.7810289,
+            nrStand: "61",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18987082,
+            latitude: -17.78099971,
+            nrStand: "61",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.18974234,
+            latitude: -17.78099859,
+            nrStand: "61",
+            nameEntrance: "E"
+          },
+          {
+            longitude: -63.1897423,
+            latitude: -17.78092278,
+            nrStand: "61",
+            nameEntrance: "E"
+          }
+          
+          
+
+          
+
+          
+
+
+
+
+
           ]
           })
 
@@ -2778,7 +3980,618 @@ export class MigrationController {
                latitude: -17.78112527,
                order: 4,
               stand_id: 20
-            }
+            },
+
+
+
+            //GUIDO SALAZAR VARGAS
+
+            {
+              // id: 30,
+              longitude: -63.18932083,
+              latitude: -17.78100987,
+              order: 1,
+              stand_id: 31
+            },
+            {
+              // id: 30,
+              longitude: -63.18929129,
+              latitude: -17.78100987,
+              order: 2,
+              stand_id: 31
+            },
+            {
+              // id: 30,
+              longitude: -63.18929172,
+              latitude: -17.78103927,
+              order: 4,
+              stand_id: 31
+            },
+            {
+              // id: 30,
+              longitude: -63.18932106,
+              latitude: -17.78103936,
+              order: 4,
+              stand_id: 31
+            },
+            {
+              // id: 30,
+              longitude: -63.18986198,
+              latitude: -17.78101332,
+              order: 1,
+              stand_id: 32
+            },
+            {
+              // id: 30,
+              longitude: -63.18983628,
+              latitude: -17.78101332,
+              order: 2,
+              stand_id: 32
+            },
+            {
+              // id: 30,
+              longitude: -63.18983628,
+              latitude: -17.78103866,
+              order: 3,
+              stand_id: 32
+            },
+            {
+              // id: 30,
+              longitude: -63.18986162,
+              latitude: -17.78103866,
+              order: 4,
+              stand_id: 32
+            },
+            {
+              // id: 30,
+              longitude: -63.1892343,
+              latitude: -17.78094908,
+              order: 1,
+              stand_id: 33
+            },
+            {
+              // id: 30,
+              longitude: -63.18920631,
+              latitude: -17.78094931,
+              order: 2,
+              stand_id: 33
+            },
+            {
+              // id: 30,
+              longitude: -63.18920632,
+              latitude: -17.78098488,
+              order: 3,
+              stand_id: 33
+            },
+            {
+              // id: 30,
+              longitude: -63.18923472,
+              latitude: -17.78098488,
+              order: 4,
+              stand_id: 33
+            },
+            {
+              // id: 30,
+              longitude: -63.18926162,
+              latitude: -17.78094885,
+              order: 1,
+              stand_id: 34
+            },
+            {
+              // id: 30,
+              longitude: -63.1892343,
+              latitude: -17.78094908,
+              order: 2,
+              stand_id: 34
+            },
+            {
+              // id: 30,
+              longitude: -63.18923472,
+              latitude: -17.78098488,
+              order: 3,
+              stand_id: 34
+            },
+            {
+              // id: 30,
+              longitude: -63.1892612,
+              latitude: -17.78098488,
+              order: 4,
+              stand_id: 34
+            },
+            {
+              // id: 30,
+              longitude: -63.18926004,
+              latitude: -17.78100987,
+              order: 1,
+              stand_id: 35
+            },
+            {
+              // id: 30,
+              longitude: -63.18923276,
+              latitude: -17.78100987,
+              order: 2,
+              stand_id: 35
+            },
+            {
+              // id: 30,
+              longitude: -63.18923319,
+              latitude: -17.7810391,
+              order: 3,
+              stand_id: 35
+            },
+            {
+              // id: 30,
+              longitude: -63.18925984,
+              latitude: -17.78103918,
+              order: 4,
+              stand_id: 35
+            },
+            {
+              // id: 30,
+              longitude: -63.18934938,
+              latitude: -17.78100987,
+              order: 1,
+              stand_id: 36
+            },
+            {
+              // id: 30,
+              longitude: -63.18932083,
+              latitude: -17.78100987,
+              order: 2,
+              stand_id: 36
+            },
+            {
+              // id: 30,
+              longitude: -63.18932106,
+              latitude: -17.78103936,
+              order: 3,
+              stand_id: 36
+            },
+            {
+              // id: 30,
+              longitude: -63.18934963,
+              latitude: -17.78103945,
+              order: 4,
+              stand_id: 36
+            },
+            {
+              // id: 30,
+              longitude: -63.1894131,
+              latitude: -17.78110167,
+              order: 1,
+              stand_id: 37
+            },
+            {
+              // id: 30,
+              longitude: -63.18937466,
+              latitude: -17.78110148,
+              order: 2,
+              stand_id: 37
+            },
+            {
+              // id: 30,
+              longitude: -63.18937347,
+              latitude: -17.78116156,
+              order: 3,
+              stand_id: 37
+            },
+            {
+              // id: 30,
+              longitude: -63.18941274,
+              latitude: -17.78116156,
+              order: 4,
+              stand_id: 37
+            },
+            {
+              // id: 30,
+              longitude: -63.18953691,
+              latitude: -17.78104794,
+              order: 1,
+              stand_id: 38
+            },
+            {
+              // id: 30,
+              longitude: -63.18949721,
+              latitude: -17.78104794,
+              order: 2,
+              stand_id: 38
+            },
+            {
+              // id: 30,
+              longitude: -63.18949639,
+              latitude: -17.78109989,
+              order: 3,
+              stand_id: 38
+            },
+            {
+              // id: 30,
+              longitude: -63.18953647,
+              latitude: -17.78110088,
+              order: 4,
+              stand_id: 38
+            },
+            {
+              // id: 30,
+              longitude: -63.18977779,
+              latitude: -17.78092909,
+              order: 1,
+              stand_id: 39
+            },
+            {
+              // id: 30,
+              longitude: -63.18974901,
+              latitude: -17.78092872,
+              order: 2,
+              stand_id: 39
+            },
+            {
+              // id: 30,
+              longitude: -63.18974824,
+              latitude: -17.78098393,
+              order: 3,
+              stand_id: 39
+            },
+            {
+              // id: 30,
+              longitude: -63.18977679,
+              latitude: -17.78098274,
+              order: 4,
+              stand_id: 39
+            },
+            {
+              // id: 30,
+              longitude: -63.18972394,
+              latitude: -17.78091112,
+              order: 1,
+              stand_id: 40
+            },
+            {
+              // id: 30,
+              longitude: -63.18968725,
+              latitude: -17.78091112,
+              order: 2,
+              stand_id: 40
+            },
+            {
+              // id: 30,
+              longitude: -63.18968697,
+              latitude: -17.78093778,
+              order: 3,
+              stand_id: 40
+            },
+            {
+              // id: 30,
+              longitude: -63.18972357,
+              latitude: -17.78093778,
+              order: 4,
+              stand_id: 40
+            },
+            {
+              // 	id:,
+                longitude: -63.1897793,
+                 latitude: -17.78084782, 
+                 order:1, 
+                 stand_id:41 
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18975012 ,
+                 latitude: -17.78084819 , 
+                 order:2, 
+                 stand_id: 41
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18974976 ,
+                 latitude: -17.78087458 , 
+                 order:3, 
+                 stand_id:41 
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18977879,
+                 latitude:  -17.78087496, 
+                 order:4, 
+                 stand_id: 41
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18984937 ,
+                 latitude: -17.78072814 , 
+                 order:1, 
+                 stand_id: 42
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18980892 ,
+                 latitude: -17.78072755, 
+                 order:2,
+                 stand_id: 42
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.1898082,
+                 latitude: -17.7807794, 
+                 order:3, 
+                 stand_id: 42
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18984937,
+                 latitude: -17.78077989 , 
+                 order:4, 
+                 stand_id: 42
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.189729,
+                 latitude: -17.78060298, 
+                 order:1, 
+                 stand_id: 43
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969078,
+                 latitude: -17.78060227 , 
+                 order:2, 
+                 stand_id: 43
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18968792,
+                 latitude: -17.78068412, 
+                 order:3, 
+                 stand_id: 43
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.1897279 ,
+                 latitude: -17.7806846 , 
+                 order:4, 
+                 stand_id: 43
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.1897294 ,
+                 latitude: -17.78057324, 
+                 order:1, 
+                 stand_id:44 
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969111,
+                 latitude: -17.78057324 , 
+                 order:2, 
+                 stand_id: 44
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969078,
+                 latitude: -17.78060227, 
+                 order:3, 
+                 stand_id:44 
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.189729,
+                 latitude: -17.78060298,
+                 order:4, 
+                 stand_id: 44
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18986067,
+                 latitude: -17.78059965 , 
+                 order:1, 
+                 stand_id: 45
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18981041,
+                 latitude: -17.78059987, 
+                 order:2, 
+                 stand_id: 45
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18980995,
+                 latitude: -17.7806282 , 
+                 order:3, 
+                 stand_id: 45
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18986007,
+                 latitude: -17.7806288, 
+                 order:4, 
+                 stand_id: 45
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18972975,
+                 latitude: -17.78054706 , 
+                 order:1, 
+                 stand_id: 46
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969142 ,
+                 latitude: -17.78054706, 
+                 order:2, 
+                 stand_id: 46
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969111 ,
+                 latitude: -17.78057324 , 
+                 order:3, 
+                 stand_id: 46
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.1897294 ,
+                 latitude: -17.78057324 , 
+                 order:4,
+                 stand_id: 46
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18973012 ,
+                 latitude: -17.78051988 , 
+                 order:1, 
+                 stand_id: 47
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969173,
+                 latitude: -17.78052019, 
+                 order:2, 
+                 stand_id: 47
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969142,
+                 latitude: -17.78054706, 
+                 order:3, 
+                 stand_id: 47
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18972975 ,
+                 latitude: -17.78054706, 
+                 order:4, 
+                 stand_id: 47
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18973048,
+                 latitude: -17.78049332 , 
+                 order:1, 
+                 stand_id:48 
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18961559,
+                 latitude: -17.78049374 , 
+                 order:2, 
+                 stand_id: 48
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18961511,
+                 latitude: -17.78052082 , 
+                 order:3, 
+                 stand_id: 48
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18973012,
+                 latitude: -17.78051988, 
+                 order:4, 
+                 stand_id: 48
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969304 ,
+                 latitude: -17.78043856, 
+                 order:1, 
+                 stand_id: 49
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18961654,
+                 latitude: -17.78043951, 
+                 order:2, 
+                 stand_id: 49
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18961559,
+                 latitude: -17.78049374, 
+                 order:3, 
+                 stand_id: 49
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18969185,
+                 latitude: -17.78049346, 
+                 order:4, 
+                 stand_id: 49
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18957986,
+                 latitude: -17.78043839, 
+                 order:1, 
+                 stand_id: 50
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18954847,
+                 latitude: -17.78043887, 
+                 order:2, 
+                 stand_id: 50
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18954772,
+                 latitude: -17.78049357, 
+                 order:3, 
+                 stand_id: 50
+              },
+              
+              {
+              // 	id:,
+                longitude: -63.18957989,
+                 latitude: -17.78049376, 
+                 order:4, 
+                 stand_id: 50
+              },
+              
+              
+            
+
+
+
+  
             ]
             })
             
@@ -2875,12 +4688,7 @@ await prisma.stand.createMany({
      phone: "78452415",
      urlPage: "https://www.local132@gmail.com"
   },
-  
-  
-  
-  
-  
-  
+
   
   {
   // 	id: 8,
@@ -3037,6 +4845,130 @@ await prisma.stand.createMany({
          phone: "78452415",
          urlPage: "https://www.local25@gmail.com"
       },
+
+
+      //Moises
+      {
+        // 	id: 41,
+           name: "Ella Y El",
+          owner: "Ana Martínez",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703518557/comercial%20ca%C3%B1oto/cf9ow99zab8upkk4snc5.jpg",
+          direction: "Centro Comercial Cañoto | Local #69",
+        nr : "69",
+          longitude: -63.18976478 ,
+          latitude: -17.78086312,
+           phone: "71037772",
+           urlPage: "https://www.local69@gmail.com"
+        },
+        {
+        // 	id:42 ,
+           name: "JULIUS",
+          owner: "Carlos Rodríguez",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703513392/comercial%20ca%C3%B1oto/eqogkifvltujy3b8e9yu.jpg",
+          direction: "Centro Comercial Cañoto | Local #77",
+        nr : "77",
+          longitude: -63.18983021,
+          latitude: -17.78075277,
+           phone: "70977462",
+           urlPage: "https://www.local77@gmail.com"
+        },
+        {
+        // 	id: 43,
+           name: "PATRICIA",
+          owner: "María García",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703519082/comercial%20ca%C3%B1oto/pc9bbhfdqronky6fcs4m.jpg",
+          direction: "Centro Comercial Cañoto | Local #83",
+        nr : "83",
+          longitude: -63.18971064,
+          latitude: -17.78064332,
+           phone: "72681334",
+           urlPage: "https://www.local83@gmail.com"
+        },
+        {
+        // 	id: 44,
+           name: "JUGUETERIA ROSITA",
+          owner: "Javier López",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703526347/comercial%20ca%C3%B1oto/rcovjde2zztmylwm9ad2.jpg",
+          direction: "Centro Comercial Cañoto | Local #89",
+        nr : "89",
+          longitude: -63.18971064,
+          latitude: -17.78058799,
+           phone: "76018085",
+           urlPage:"https://www.local89@gmail.com"
+        },
+        {
+        // 	id: 45,
+           name: "ANGELICA",
+          owner: "Laura Fernández",
+          image: "https://res.cloudinary.com/dm8a74pty/image/upload/v1703526715/comercial%20ca%C3%B1oto/rwl87ba4bohlpms23b9k.jpg",
+          direction: "Centro Comercial Cañoto | Local #92",
+        nr : "92",
+          longitude: -63.18983318,
+          latitude: -17.78061714,
+           phone: "75009197",
+           urlPage: "https://www.local92@gmail.com"
+        },
+        {
+        // 	id: 46,
+           name: "ABOGADOS SUCESORES",
+          owner: "Roberto Sánchez",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703526963/comercial%20ca%C3%B1oto/affb6fxcjuax4hd7rlsc.jpg",
+          direction: "Centro Comercial Cañoto | Local #94",
+        nr : "94",
+          longitude: -63.18971064,
+          latitude: -17.78055944,
+           phone: "70815116",
+           urlPage: "https://www.local94@gmail.com"
+        },
+        {
+        // 	id: 47,
+           name: "AR & SV",
+          owner: "Patricia Ramírez",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703528715/comercial%20ca%C3%B1oto/xcpb8vdxgsmksimtiwfn.jpg",
+          direction: "Centro Comercial Cañoto | Local #95",
+        nr : "95",
+          longitude: -63.18971064 ,
+          latitude: -17.78053029,
+           phone: "70890578",
+           urlPage: "https://www.local95@gmail.com"
+        },
+        {
+        // 	id: 48,
+           name: "SONIA",
+          owner: "Miguel González",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703528974/comercial%20ca%C3%B1oto/wxvacuefsmnp1bhi0kmz.jpg",
+          direction: "Centro Comercial Cañoto | Local #101",
+        nr : "101",
+          longitude: -63.18967257,
+          latitude: -17.7805065,
+           phone: "72186782",
+           urlPage: "https://www.local101@gmail.com"
+        },
+        {
+        // 	id: 49,
+           name: "CRISTALERIA MARGARITA",
+          owner: "Miguel González",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703529235/comercial%20ca%C3%B1oto/gwtubkyugshqj5fhe2ll.jpg",
+          direction: "Centro Comercial Cañoto | Local #116",
+        nr : "116",
+          longitude: -63.18965294 ,
+          latitude: -17.78046486,
+           phone: "78129401",
+           urlPage: "https://www.local116@gmail.com"
+        },
+        {
+        // 	id: 50,
+           name: "L y M Outlet",
+          owner: "Marta Ruiz",
+          image:"https://res.cloudinary.com/dm8a74pty/image/upload/v1703529428/comercial%20ca%C3%B1oto/gdo5myrdpnsbfc113upr.jpg",
+          direction: "Centro Comercial Cañoto | Local #122",
+        nr : "122",
+          longitude: -63.18956119,
+          latitude: -17.78046638,
+           phone: "72121644",
+           urlPage: "https://www.local122@gmail.com"
+        },
+        
       
     
 
@@ -3058,6 +4990,75 @@ await prisma.stand.createMany({
     
             ]
          })
+
+         await prisma.category.createMany({
+          data: [
+            { title: "Fundas" },
+            { title: "Protectores" },
+            { title: "Bolsas de regalo" },
+            { title: "Cargadores" },
+            { title: "Audífonos" },
+            { title: "Camisas" },
+            { title: "Pantalones" },
+            { title: "Sacos" },
+            { title: "Anillos" },
+            { title: "Collares" },
+            { title: "Aretes" },
+            { title: "Manillas" },
+            { title: "Blusas" },
+            { title: "Vestidos" },
+            { title: "Sandalias" },
+            { title: "Tacos" },
+            { title: "Carteras" },
+            { title: "Poleras" },
+            { title: "Tops" },
+            { title: "Calzas" },
+            { title: "Shorts" },
+            { title: "Mochilas" },
+            { title: "Extensiones" },
+            { title: "Pelucas" },
+            { title: "Fuerza" },
+            { title: "Bajar de peso" },
+            { title: "Déficit" },
+            { title: "Aumentar musculatura" },
+            { title: "Calistenia" },
+            { title: "Gorros" },
+            { title: "Batas sanitarias" },
+            { title: "Zapatos clínicos" },
+            { title: "Zapatos" },
+            { title: "Varon" },
+            { title: "Infantil" },
+            { title: "Dama" },
+            { title: "Tacones" },
+            { title: "Anabela" },
+            { title: "Grandes" },
+            { title: "Pequeñas" },
+            { title: "Pantallas interactivas" },
+            { title: "Vibradores" },
+            { title: "Potenciadores(tabletas)" },
+            { title: "Ropa sexy" },
+            { title: "Juguetes sexuales" },
+            { title: "Chupines" },
+            { title: "Campanas" },
+            { title: "Clásicos" },
+            { title: "Casio" },
+            { title: "Maxima" },
+            { title: "City sens" },
+            { title: "Laguna" },
+            { title: "Peluches" },
+            { title: "Medias" },
+            { title: "Tenis" },
+            { title: "Gorras" },
+            { title: "Camisas rufini" },
+            { title: "Pantalones de vestir" },
+            { title: "Pantalones sport" },
+            { title: "Pantalones normal" },
+            { title: "Pantalones rufini" },
+            { title: "Cinturones" },
+            { title: "Zapatos de vestir" },
+          ]
+        });
+        
     
     
 
