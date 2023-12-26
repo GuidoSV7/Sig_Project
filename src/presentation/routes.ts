@@ -9,6 +9,7 @@ import { InventoryRoutes } from "./inventories/routes";
 import { CategoryRoutes } from "./categories/routes";
 
 import { ProductHasCategoryRoutes } from "./productHasCategories/routes";
+import { PointGeoRoutes } from "./pointgeo/routes";
 
 export class AppRoutes {
     static get routes(): Router {
@@ -20,11 +21,15 @@ export class AppRoutes {
         router.use('/api/products', ProductRoutes.routes);
         router.use('/api/stands', StandRoutes.routes);
         router.use('/api/categories', CategoryRoutes.routes);
+        router.use('/api/pointgeos', PointGeoRoutes.routes);
+        
 
         router.use('.api/productHasCategory', ProductHasCategoryRoutes.routes);
 
         //Migration
         router.use('/api/migration',MigrationRoutes.routes);
+
+
 
     
 

@@ -16,6 +16,9 @@ export class StandRoutes {
         router.post('/', standController.createStand);
         router.put('/:id', standController.updateStand);
         router.delete('/:id', standController.deleteStand);
+
+        //Personales
+        
         
         return router;
     }
