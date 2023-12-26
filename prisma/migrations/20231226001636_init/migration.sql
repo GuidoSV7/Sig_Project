@@ -30,6 +30,25 @@ CREATE TABLE "Product" (
 );
 
 -- CreateTable
+CREATE TABLE "Category" (
+    "id" SERIAL NOT NULL,
+    "title" TEXT NOT NULL,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT "Category_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
+CREATE TABLE "ProductHasCategories" (
+    "id" SERIAL NOT NULL,
+    "idproduct" INTEGER NOT NULL,
+    "idcategory" INTEGER NOT NULL,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT "ProductHasCategories_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
 CREATE TABLE "Stand" (
     "id" SERIAL NOT NULL,
     "name" TEXT NOT NULL,
@@ -38,6 +57,9 @@ CREATE TABLE "Stand" (
     "direction" TEXT NOT NULL,
     "longitude" DOUBLE PRECISION NOT NULL,
     "latitude" DOUBLE PRECISION NOT NULL,
+    "nr" TEXT NOT NULL,
+    "phone" TEXT NOT NULL,
+    "urlPage" TEXT NOT NULL,
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
     CONSTRAINT "Stand_pkey" PRIMARY KEY ("id")
@@ -54,11 +76,47 @@ CREATE TABLE "Inventory" (
     CONSTRAINT "Inventory_pkey" PRIMARY KEY ("id")
 );
 
--- CreateIndex
-CREATE UNIQUE INDEX "User_email_key" ON "User"("email");
+-- CreateTable
+CREATE TABLE "Entrance" (
+    "id" SERIAL NOT NULL,
+    "name" TEXT NOT NULL,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT "Entrance_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
+CREATE TABLE "Routegeo" (
+    "id" SERIAL NOT NULL,
+    "longitude" DOUBLE PRECISION NOT NULL,
+    "latitude" DOUBLE PRECISION NOT NULL,
+    "nrStand" TEXT NOT NULL,
+    "nameEntrance" TEXT NOT NULL,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT "Routegeo_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
+CREATE TABLE "Pointgeo" (
+    "id" SERIAL NOT NULL,
+    "longitude" DOUBLE PRECISION NOT NULL,
+    "latitude" DOUBLE PRECISION NOT NULL,
+    "order" INTEGER NOT NULL,
+    "stand_id" INTEGER NOT NULL,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT "Pointgeo_pkey" PRIMARY KEY ("id")
+);
 
 -- AddForeignKey
 ALTER TABLE "User" ADD CONSTRAINT "User_idrol_fkey" FOREIGN KEY ("idrol") REFERENCES "Rol"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "ProductHasCategories" ADD CONSTRAINT "ProductHasCategories_idproduct_fkey" FOREIGN KEY ("idproduct") REFERENCES "Product"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "ProductHasCategories" ADD CONSTRAINT "ProductHasCategories_idcategory_fkey" FOREIGN KEY ("idcategory") REFERENCES "Category"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE "Inventory" ADD CONSTRAINT "Inventory_idproduct_fkey" FOREIGN KEY ("idproduct") REFERENCES "Product"("id") ON DELETE RESTRICT ON UPDATE CASCADE;

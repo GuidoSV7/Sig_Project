@@ -19,7 +19,7 @@ model Rol {
 model User {
   id        Int        @id @default(autoincrement())
   name      String
-  email     String     @unique
+  email     String     
   password  String
   idrol    Int
   createdAt DateTime   @default(now())  
@@ -36,7 +36,25 @@ model Product{
   price     Float
   createdAt DateTime   @default(now())
   Inventory Inventory[]
+  ProductHasCategory ProductHasCategories[]
   
+}
+
+model Category{
+  id        Int        @id @default(autoincrement())
+  title     String
+  createdAt DateTime   @default(now())
+  ProductHasCategory ProductHasCategories[]
+  
+}
+
+model ProductHasCategories{
+  id        Int        @id @default(autoincrement())
+  idproduct Int
+  idcategory Int
+  createdAt DateTime   @default(now())
+  Product   Product    @relation(fields: [idproduct], references: [id])
+  Category   Category    @relation(fields: [idcategory], references: [id])
 }
 
 model Stand{
@@ -47,8 +65,12 @@ model Stand{
   direction String
   longitude Float
   latitude Float
+  nr      String
+  phone     String
+  urlPage     String
   createdAt DateTime   @default(now())
   Inventory Inventory[]
+  
 
 }
 
@@ -62,4 +84,28 @@ model Inventory{
   Stand     Stand      @relation(fields: [idstand], references: [id])
 }
 
+model Entrance{
+  id        Int        @id @default(autoincrement())
+  name    String
+  createdAt DateTime   @default(now())
+}
 
+model Routegeo{
+  id        Int        @id @default(autoincrement())
+  longitude Float
+  latitude Float
+  nrStand String
+  nameEntrance String
+  createdAt DateTime   @default(now())
+
+}
+
+model Pointgeo{
+  id        Int        @id @default(autoincrement())
+  longitude Float
+  latitude Float
+  order Int
+  stand_id Int
+
+  createdAt DateTime   @default(now())
+}	

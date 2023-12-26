@@ -31,6 +31,11 @@ export class StandController {
         direction: yup.string().required(),
         longitude: yup.number().required(),
         latitude: yup.number().required(),
+        nr: yup.string().required(),
+        phone: yup.string().required(),
+        urlPage  : yup.string().required(),      
+        
+            
 
         
     })
@@ -40,12 +45,12 @@ export class StandController {
         
         try{
    
-            const {  name, owner, image, direction, longitude, latitude} = await this.createSchema.validate( await req.body );
+            const {  name, owner, image, direction, longitude, latitude,nr, phone,urlPage} = await this.createSchema.validate( await req.body );
             
            
             
             const product = await prisma.stand.create({
-                data: { name, owner, image, direction, longitude, latitude} 
+                data: { name, owner, image, direction, longitude, latitude, nr, phone,urlPage} 
                 
             });
            
@@ -60,14 +65,14 @@ export class StandController {
 
     public  updateStand = async (req: Request, res: Response) =>{
         const { id } = req.params;
-        const { name, owner, image, direction, longitude, latitude} = req.body;
+        const { name, owner, image, direction, longitude, latitude, nr, phone, urlPage} = req.body;
 
         const stand = await prisma.stand.update({
             where: {
                 id: Number(id)
             },
             data: {
-                name, owner, image, direction, longitude, latitude
+                name, owner, image, direction, longitude, latitude, nr, phone, urlPage
             }
         });
 

@@ -7,7 +7,7 @@ import { ProductRoutes } from "./products/routes";
 import { StandRoutes } from "./stands/routes";
 import { InventoryRoutes } from "./inventories/routes";
 import { CategoryRoutes } from "./categories/routes";
-import { SizeRoutes } from "./sizes/routes";
+
 import { ProductHasCategoryRoutes } from "./productHasCategories/routes";
 
 export class AppRoutes {
@@ -20,11 +20,11 @@ export class AppRoutes {
         router.use('/api/products', ProductRoutes.routes);
         router.use('/api/stands', StandRoutes.routes);
         router.use('/api/categories', CategoryRoutes.routes);
-        router.use('.api/sizes', SizeRoutes.routes);
+
         router.use('.api/productHasCategory', ProductHasCategoryRoutes.routes);
 
         //Migration
-        router.use('/migration',MigrationRoutes.routes);
+        router.use('/api/migration',MigrationRoutes.routes);
 
     
 
