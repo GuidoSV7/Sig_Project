@@ -5574,7 +5574,7 @@ await prisma.stand.createMany({
               description: "Aceite natural para hidratar y nutrir el cabello.",
               size: "100ml",
               price: 10.99,
-              image: "https://ejemplo.com/aceite-coco.jpg",
+              image: "https://i.pinimg.com/564x/e5/81/dd/e581dd63afdbba98ce534a4ec993e950.jpg",
               discount: 0
           },
           {
@@ -5582,7 +5582,7 @@ await prisma.stand.createMany({
               description: "Gel de aloe vera para fortalecer y dar brillo al cabello.",
               size: "250ml",
               price: 8.5,
-              image: "https://ejemplo.com/aloe-vera.jpg",
+              image: "https://i.pinimg.com/564x/07/95/94/079594f8aa485447059bc63e9ea65649.jpg",
               discount: 0
           },
           {
@@ -5590,7 +5590,7 @@ await prisma.stand.createMany({
               description: "Acondicionador natural para equilibrar el pH del cuero cabelludo.",
               size: "500ml",
               price: 7.25,
-              image: "https://ejemplo.com/vinagre-manzana.jpg",
+              image: "https://i.pinimg.com/564x/b0/e7/b0/b0e7b0cc4f899fd9f5ab374cf51b131e.jpg",
               discount: 0
           },
           {
@@ -5598,7 +5598,7 @@ await prisma.stand.createMany({
               description: "Mascarilla capilar para humectar y suavizar el cabello.",
               size: "200g",
               price: 12.0,
-              image: "https://ejemplo.com/miel.jpg",
+              image: "https://i.pinimg.com/564x/79/11/a8/7911a835d0e02dca6bb4ee1600ad8f7b.jpg",
               discount: 0
           },
           {
@@ -5606,7 +5606,7 @@ await prisma.stand.createMany({
               description: "Aceite reparador para cabello seco y dañado.",
               size: "50ml",
               price: 15.75,
-              image: "https://ejemplo.com/aceite-argan.jpg",
+              image: "https://i.pinimg.com/564x/50/4e/93/504e93af197dab031e7aae4408c545b7.jpg",
               discount: 0
           },
           {
@@ -5614,7 +5614,7 @@ await prisma.stand.createMany({
               description: "Aceite que ayuda a hidratar el cabello y combatir la caspa.",
               size: "30ml",
               price: 9.99,
-              image: "https://ejemplo.com/aceite-jojoba.jpg",
+              image: "https://i.pinimg.com/564x/a6/10/aa/a610aaa2c253aea6eeb39866b9410de6.jpg",
               discount: 0
           },
           {
@@ -5622,7 +5622,7 @@ await prisma.stand.createMany({
               description: "Mascarilla nutritiva para cabello seco y quebradizo.",
               size: "150g",
               price: 11.5,
-              image: "https://ejemplo.com/mascarilla-aguacate.jpg",
+              image: "https://i.pinimg.com/564x/03/22/0a/03220af7f0646df4adfc75b2c4dffdfe.jpg",
               discount: 0
           },
           {
@@ -5630,7 +5630,7 @@ await prisma.stand.createMany({
               description: "Tinte natural para dar color y brillo al cabello.",
               size: "100g",
               price: 6.75,
-              image: "https://ejemplo.com/henna.jpg",
+              image: "https://i.pinimg.com/564x/7f/f7/32/7ff7324fd03fb50949c11e5e15975c11.jpg",
               discount: 0
           },
           {
@@ -5638,7 +5638,7 @@ await prisma.stand.createMany({
               description: "Infusión que estimula el crecimiento y fortalece el cabello.",
               size: "250ml",
               price: 8.0,
-              image: "https://ejemplo.com/infusion-romero.jpg",
+              image: "https://i.pinimg.com/564x/f2/71/bc/f271bcd20fba5d8109978549ce53265d.jpg",
               discount: 0
           },
           {
@@ -5646,7 +5646,7 @@ await prisma.stand.createMany({
               description: "Crema hidratante para cabello seco y encrespado.",
               size: "120g",
               price: 14.25,
-              image: "https://ejemplo.com/manteca-karite.jpg",
+              image: "https://i.pinimg.com/564x/1a/8a/6a/1a8a6acc7af210c8564534bef61b74c6.jpg",
               discount: 0
           },
           {
@@ -5654,7 +5654,7 @@ await prisma.stand.createMany({
               description: "Enjuague natural para dar brillo y suavidad al cabello.",
               size: "300ml",
               price: 9.5,
-              image: "https://ejemplo.com/te-verde.jpg",
+              image: "https://i.pinimg.com/564x/a4/69/dc/a469dcb011c3827a577194f5c26ca8d8.jpg",
               discount: 0
           },
           {
@@ -5662,7 +5662,7 @@ await prisma.stand.createMany({
               description: "Gel que define rizos y controla el frizz del cabello.",
               size: "200ml",
               price: 7.99,
-              image: "https://ejemplo.com/gel-linaza.jpg",
+              image: "https://i.pinimg.com/564x/68/38/6f/68386ff4ca46ea323b1549b2019e79f8.jpg",
               discount: 0
           },
           {
@@ -5670,7 +5670,7 @@ await prisma.stand.createMany({
               description: "Aceite que acondiciona y suaviza el cabello.",
               size: "50ml",
               price: 10.0,
-              image: "https://ejemplo.com/aceite-almendra.jpg",
+              image: "https://i.pinimg.com/564x/ac/a7/34/aca734219c99d1980bc852e39618ef74.jpg",
               discount: 0
           },
           {
@@ -5678,7 +5678,7 @@ await prisma.stand.createMany({
               description: "Champú natural para limpiar y fortalecer el cabello.",
               size: "400ml",
               price: 12.99,
-              image: "https://ejemplo.com/champu-hierbas.jpg",
+              image: "https://i.pinimg.com/564x/fe/c2/d6/fec2d6e242a4b3a0995fb1b229e0c921.jpg",
               discount: 0
           },
           {
@@ -5686,7 +5686,7 @@ await prisma.stand.createMany({
               description: "Vitamina E que nutre y protege el cabello de los daños.",
               size: "15ml",
               price: 6.25,
-              image: "https://ejemplo.com/vitamina-e.jpg",
+              image: "https://i.pinimg.com/564x/79/a5/2b/79a52b6fb3030316494067011fd7ffc8.jpg",
               discount: 0
           },
 
@@ -5695,7 +5695,7 @@ await prisma.stand.createMany({
             description: "Funda delgada y transparente para proteger tu teléfono.",
             size: "Compatible con varios modelos",
             price: 8.99,
-            image: "https://ejemplo.com/funda-transparente.jpg",
+            image: "https://i.pinimg.com/564x/76/51/51/765151cc656f6e66ef5b48ddb698bcc0.jpg",
             discount: 0
         },
         {
@@ -5703,7 +5703,7 @@ await prisma.stand.createMany({
             description: "Protector resistente para evitar rayones en la pantalla.",
             size: "Varios tamaños disponibles",
             price: 12.5,
-            image: "https://ejemplo.com/protector-vidrio.jpg",
+            image: "https://i.pinimg.com/564x/14/51/c9/1451c9fba5946eeb3c4ccafc91e45660.jpg",
             discount: 0
         },
         {
@@ -5711,7 +5711,7 @@ await prisma.stand.createMany({
             description: "Batería externa para cargar tu celular en cualquier lugar.",
             size: "10,000mAh",
             price: 24.0,
-            image: "https://ejemplo.com/cargador-portatil.jpg",
+            image: "https://i.pinimg.com/564x/fb/cf/96/fbcf96f3edeb1f5860458a41338c64f3.jpg",
             discount: 0
         },
         {
@@ -5719,7 +5719,7 @@ await prisma.stand.createMany({
             description: "Auriculares inalámbricos para una experiencia de audio sin cables.",
             size: "Unidad",
             price: 35.99,
-            image: "https://ejemplo.com/auriculares-bluetooth.jpg",
+            image: "https://i.pinimg.com/564x/78/56/8a/78568a5abb68c2b505aede50e7369fa0.jpg",
             discount: 0
         },
         {
@@ -5727,7 +5727,7 @@ await prisma.stand.createMany({
             description: "Soporte ajustable para mantener tu teléfono en el auto.",
             size: "Universal",
             price: 16.75,
-            image: "https://ejemplo.com/soporte-automovil.jpg",
+            image: "https://i.pinimg.com/564x/f0/bd/95/f0bd95f0d35cf0310349e90b37f32ae4.jpg",
             discount: 0
         },
         {
@@ -5735,7 +5735,7 @@ await prisma.stand.createMany({
             description: "Adaptador para cargar dispositivos con puerto USB-C.",
             size: "1 unidad",
             price: 9.5,
-            image: "https://ejemplo.com/adaptador-usb-c.jpg",
+            image: "https://i.pinimg.com/564x/f0/63/a6/f063a6556ec2cb554726d5563237aa62.jpg",
             discount: 0
         },
         {
@@ -5743,7 +5743,7 @@ await prisma.stand.createMany({
             description: "Funda que protege tu teléfono y proporciona carga adicional.",
             size: "Varios modelos compatibles",
             price: 28.99,
-            image: "https://ejemplo.com/funda-bateria.jpg",
+            image: "https://i.pinimg.com/564x/35/83/94/3583942a08efa7ba7fd5110b3858ef16.jpg",
             discount: 0
         },
         {
@@ -5751,7 +5751,7 @@ await prisma.stand.createMany({
             description: "Tarjeta para expandir la capacidad de almacenamiento del teléfono.",
             size: "64GB",
             price: 19.0,
-            image: "https://ejemplo.com/tarjeta-microsd.jpg",
+            image: "https://i.pinimg.com/564x/e5/6f/32/e56f322d95f2a045f432f633da1488b9.jpg",
             discount: 0
         },
         {
@@ -5759,7 +5759,7 @@ await prisma.stand.createMany({
             description: "Cable resistente para cargar y transferir datos.",
             size: "1 metro",
             price: 11.25,
-            image: "https://ejemplo.com/cable-usb.jpg",
+            image: "https://i.pinimg.com/564x/3b/6b/c9/3b6bc9483a1c6633a5c81e5707f5f03b.jpg",
             discount: 0
         },
         {
@@ -5767,16 +5767,15 @@ await prisma.stand.createMany({
             description: "Estuche hermético para proteger tu teléfono del agua.",
             size: "Universal",
             price: 14.99,
-            image: "https://ejemplo.com/estuche-resistente-agua.jpg",
+            image: "https://i.pinimg.com/564x/97/61/d1/9761d10540cee474ea9bc50fa560e119.jpg",
             discount: 0
         },
-
         {
           name: "Camisa de algodón",
           description: "Camisa casual de algodón suave y cómoda.",
           size: "Variedad de tallas y colores",
           price: 29.99,
-          image: "https://ejemplo.com/camisa-algodon.jpg",
+          image: "https://i.pinimg.com/564x/10/dc/b1/10dcb151c53195384e14603b9b4abf22.jpg",
           discount: 0
       },
       {
@@ -5784,7 +5783,7 @@ await prisma.stand.createMany({
           description: "Pantalones vaqueros ajustados y modernos.",
           size: "Disponible en tallas estándar",
           price: 39.5,
-          image: "https://ejemplo.com/jeans-ajustados.jpg",
+          image: "https://i.pinimg.com/564x/5f/ac/c8/5facc82c1ac4e2a1a7b184a9e2220a05.jpg",
           discount: 0
       },
       {
@@ -5792,7 +5791,7 @@ await prisma.stand.createMany({
           description: "Vestido veraniego con estampado floral elegante.",
           size: "Diversas tallas disponibles",
           price: 45.0,
-          image: "https://ejemplo.com/vestido-floral.jpg",
+          image: "https://i.pinimg.com/564x/88/ff/2d/88ff2dc3f7ffe1c0d4e1c6d31dd76e4f.jpg",
           discount: 10
       },
       {
@@ -5800,7 +5799,7 @@ await prisma.stand.createMany({
           description: "Sudadera cómoda con capucha y bolsillos frontales.",
           size: "Variedad de colores y tallas",
           price: 32.75,
-          image: "https://ejemplo.com/sudadera-capucha.jpg",
+          image: "https://i.pinimg.com/564x/03/0c/20/030c2093dddf337092a025e2f38aae18.jpg",
           discount: 5
       },
       {
@@ -5808,7 +5807,7 @@ await prisma.stand.createMany({
           description: "Falda elegante y plisada para cualquier ocasión.",
           size: "Diferentes largos y colores",
           price: 27.99,
-          image: "https://ejemplo.com/falda-plisada.jpg",
+          image: "https://i.pinimg.com/564x/18/a0/ba/18a0ba50c20faf78fee1edf27e2fa9b8.jpg",
           discount: 0
       },
       {
@@ -5816,7 +5815,7 @@ await prisma.stand.createMany({
           description: "Conjunto de traje formal para hombres.",
           size: "Tallas variadas de chaqueta y pantalón",
           price: 149.0,
-          image: "https://ejemplo.com/traje-formal.jpg",
+          image: "https://i.pinimg.com/564x/d5/bc/cf/d5bccf3a7b96ba1c98cedf96ec8fccba.jpg",
           discount: 20
       },
       {
@@ -5824,7 +5823,7 @@ await prisma.stand.createMany({
           description: "Leggings cómodos y elásticos para entrenamientos.",
           size: "Diversas tallas disponibles",
           price: 22.5,
-          image: "https://ejemplo.com/leggings-deportivos.jpg",
+          image: "https://i.pinimg.com/564x/e9/4a/cd/e94acdbf4788484727235fe5a434baec.jpg",
           discount: 0
       },
       {
@@ -5832,7 +5831,7 @@ await prisma.stand.createMany({
           description: "Chaqueta clásica de cuero genuino para un estilo atemporal.",
           size: "Variedad de tallas y colores",
           price: 99.99,
-          image: "https://ejemplo.com/chaqueta-cuero.jpg",
+          image: "https://i.pinimg.com/564x/7f/0e/0d/7f0e0de242acccb3c5b011a486d0b124.jpg",
           discount: 15
       },
       {
@@ -5840,7 +5839,7 @@ await prisma.stand.createMany({
           description: "Blusa con estampado moderno y elegante.",
           size: "Disponible en múltiples tallas",
           price: 34.25,
-          image: "https://ejemplo.com/blusa-estampada.jpg",
+          image: "https://i.pinimg.com/564x/f8/04/f3/f804f3a1d806e625ab46efd4b84bc588.jpg",
           discount: 0
       },
       {
@@ -5848,16 +5847,15 @@ await prisma.stand.createMany({
           description: "Shorts ligeros y transpirables para actividades deportivas.",
           size: "Diversas tallas y colores",
           price: 19.0,
-          image: "https://ejemplo.com/shorts-deportivos.jpg",
+          image: "https://i.pinimg.com/564x/2e/7a/dc/2e7adc9c200a85a5887d48f7b3096187.jpg",
           discount: 8
       },
-
       {
         name: "Cartuchos de tinta compatibles",
         description: "Paquete de cartuchos de tinta de alta calidad para impresoras.",
         size: "Pack de 4 cartuchos",
         price: 49.99,
-        image: "https://ejemplo.com/cartuchos-tinta.jpg",
+        image: "https://i.pinimg.com/564x/99/ff/f6/99fff60153298dcce0b997e5a92c6b5d.jpg",
         discount: 0
     },
     {
@@ -5865,7 +5863,7 @@ await prisma.stand.createMany({
         description: "Papel especial para imprimir fotos de alta resolución.",
         size: "Pack de 50 hojas, tamaño 4x6 pulgadas",
         price: 12.5,
-        image: "https://ejemplo.com/papel-fotografico.jpg",
+        image: "https://i.pinimg.com/564x/a1/ac/8a/a1ac8a0b417d6f0fc2f575c64de4f37c.jpg",
         discount: 0
     },
     {
@@ -5873,7 +5871,7 @@ await prisma.stand.createMany({
         description: "Rodillo para mantener limpia la impresora y evitar atascos.",
         size: "1 unidad",
         price: 9.0,
-        image: "https://ejemplo.com/rodillo-limpieza.jpg",
+        image: "https://i.pinimg.com/564x/68/e0/f6/68e0f6b866db1c00a2b54e76c315d808.jpg",
         discount: 0
     },
     {
@@ -5881,7 +5879,7 @@ await prisma.stand.createMany({
         description: "Cable USB de alta velocidad para conectar la impresora al ordenador.",
         size: "1.5 metros",
         price: 7.99,
-        image: "https://ejemplo.com/cable-usb-impresora.jpg",
+        image: "https://i.pinimg.com/564x/7d/96/aa/7d96aad1e163c2ee32c19ec0053a5121.jpg",
         discount: 0
     },
     {
@@ -5889,7 +5887,7 @@ await prisma.stand.createMany({
         description: "Kit completo para el mantenimiento preventivo de la impresora.",
         size: "Incluye herramientas y líquidos de limpieza",
         price: 34.75,
-        image: "https://ejemplo.com/kit-mantenimiento.jpg",
+        image: "https://i.pinimg.com/564x/90/79/5d/90795d8edeb367b574c6f5801784cc65.jpg",
         discount: 0
     },
     {
@@ -5897,7 +5895,7 @@ await prisma.stand.createMany({
         description: "Almohadillas de repuesto para la absorción de tinta residual.",
         size: "Pack de 6 almohadillas",
         price: 19.99,
-        image: "https://ejemplo.com/almohadillas-tinta.jpg",
+        image: "https://i.pinimg.com/564x/e1/bf/b7/e1bfb7133cfd44cd45f6bbcd7546c568.jpg",
         discount: 0
     },
     {
@@ -5905,7 +5903,7 @@ await prisma.stand.createMany({
         description: "Fusor de repuesto compatible con modelos específicos de impresoras.",
         size: "Para impresoras láser",
         price: 89.0,
-        image: "https://ejemplo.com/fusor-compatible.jpg",
+        image: "https://i.pinimg.com/564x/10/29/d6/1029d69ace558418da34d1536dfb51e5.jpg",
         discount: 0
     },
     {
@@ -5913,7 +5911,7 @@ await prisma.stand.createMany({
         description: "Kit de montaje y ensamblaje para impresoras DIY.",
         size: "Incluye piezas y herramientas",
         price: 42.5,
-        image: "https://ejemplo.com/kit-montaje-impresora.jpg",
+        image: "https://i.pinimg.com/564x/c7/29/40/c72940e96f62ca77ce0dcd8056cf9c35.jpg",
         discount: 0
     },
     {
@@ -5921,7 +5919,7 @@ await prisma.stand.createMany({
         description: "Unidad de tambor láser de reemplazo para impresoras láser.",
         size: "Modelos compatibles disponibles",
         price: 59.99,
-        image: "https://ejemplo.com/tambor-laser.jpg",
+        image: "https://i.pinimg.com/564x/b9/51/f2/b951f28295a9a53b9434cb714fc23529.jpg",
         discount: 0
     },
     {
@@ -5929,7 +5927,7 @@ await prisma.stand.createMany({
         description: "Kit para actualizar y mejorar funciones de la impresora.",
         size: "Incluye componentes electrónicos",
         price: 55.0,
-        image: "https://ejemplo.com/kit-actualizacion.jpg",
+        image: "https://i.pinimg.com/564x/7b/de/c9/7bdec90bb4a955cf75a5f842afe67a18.jpg",
         discount: 0
     },
 
@@ -5938,7 +5936,7 @@ await prisma.stand.createMany({
       description: "Base de cobertura media para un acabado natural.",
       size: "30ml",
       price: 22.99,
-      image: "https://ejemplo.com/base-maquillaje.jpg",
+      image: "https://i.pinimg.com/564x/3d/37/6d/3d376d6e977c093f05395a3a37f5ff81.jpg",
       discount: 0
   },
   {
@@ -5946,7 +5944,7 @@ await prisma.stand.createMany({
       description: "Paleta con variedad de colores para diferentes looks.",
       size: "12 sombras",
       price: 34.5,
-      image: "https://ejemplo.com/paleta-sombras.jpg",
+      image: "https://i.pinimg.com/564x/e1/be/0b/e1be0b51f3defed75af842fb4701eff3.jpg",
       discount: 10
   },
   {
@@ -5954,7 +5952,7 @@ await prisma.stand.createMany({
       description: "Pintalabios con acabado mate y larga duración.",
       size: "4.5g",
       price: 18.0,
-      image: "https://ejemplo.com/labial-mate.jpg",
+      image: "https://i.pinimg.com/564x/85/26/69/852669895ef5422cfd50d8181dd32bb8.jpg",
       discount: 0
   },
   {
@@ -5962,7 +5960,7 @@ await prisma.stand.createMany({
       description: "Máscara de pestañas para volumen y longitud.",
       size: "10ml",
       price: 14.75,
-      image: "https://ejemplo.com/rimel-volumen.jpg",
+      image: "https://i.pinimg.com/564x/00/11/3c/00113c357e42aa758ee5092d1bf33e86.jpg",
       discount: 5
   },
   {
@@ -5970,7 +5968,7 @@ await prisma.stand.createMany({
       description: "Corrector para disimular imperfecciones y ojeras.",
       size: "8ml",
       price: 12.99,
-      image: "https://ejemplo.com/corrector-liquido.jpg",
+      image: "https://i.pinimg.com/564x/db/0d/ae/db0dae6bdd201bc6d68edb3c6863a359.jpg",
       discount: 0
   },
   {
@@ -5978,7 +5976,7 @@ await prisma.stand.createMany({
       description: "Rubor en polvo para dar un toque de color natural.",
       size: "10g",
       price: 19.99,
-      image: "https://ejemplo.com/colorete-polvo.jpg",
+      image: "https://i.pinimg.com/564x/77/24/17/77241708a5d070168c2192926fcca848.jpg",
       discount: 0
   },
   {
@@ -5986,15 +5984,15 @@ await prisma.stand.createMany({
       description: "Eyeliner líquido de larga duración y precisión.",
       size: "3ml",
       price: 10.5,
-      image: "https://ejemplo.com/delineador-liquido.jpg",
+      image: "https://i.pinimg.com/564x/36/24/66/362466da4cc8d8425d977ed2be03c1d8.jpg",
       discount: 0
   },
   {
-      name: "Paleta de iluminadores",
+      name: "Paleta con iluminadores",
       description: "Paleta con iluminadores para resaltar facciones.",
       size: "8 tonos",
       price: 27.5,
-      image: "https://ejemplo.com/paleta-iluminadores.jpg",
+      image: "https://i.pinimg.com/564x/2d/98/48/2d98487e4d381bfc5c2c47d44ec80e5a.jpg",
       discount: 0
   },
   {
@@ -6002,7 +6000,7 @@ await prisma.stand.createMany({
       description: "Barra de labios de larga duración y acabado satinado.",
       size: "3.8g",
       price: 16.25,
-      image: "https://ejemplo.com/labial-larga-duracion.jpg",
+      image: "https://i.pinimg.com/564x/db/f0/c5/dbf0c5aaaeb0d814009b4706be5d3113.jpg",
       discount: 0
   },
   {
@@ -6010,7 +6008,7 @@ await prisma.stand.createMany({
       description: "Spray para fijar el maquillaje y prolongar su duración.",
       size: "100ml",
       price: 21.0,
-      image: "https://ejemplo.com/spray-fijador.jpg",
+      image: "https://i.pinimg.com/564x/5a/99/35/5a99353274c6fb2a31e7af8330d76d4c.jpg",
       discount: 0
   },
   {
@@ -6018,7 +6016,7 @@ await prisma.stand.createMany({
       description: "Desmaquillante suave para ojos y labios.",
       size: "150ml",
       price: 9.5,
-      image: "https://ejemplo.com/desmaquillante-bifasico.jpg",
+      image: "https://i.pinimg.com/564x/98/2d/7e/982d7e2eeeaaf01273d1beda216a092e.jpg",
       discount: 0
   },
   {
@@ -6026,7 +6024,7 @@ await prisma.stand.createMany({
       description: "Paleta con tonos para contornear el rostro.",
       size: "6 tonos",
       price: 32.99,
-      image: "https://ejemplo.com/paleta-contouring.jpg",
+      image: "https://i.pinimg.com/564x/18/74/49/187449258907656da691d71a84b24bad.jpg",
       discount: 0
   },
   {
@@ -6034,7 +6032,7 @@ await prisma.stand.createMany({
       description: "Gel para definir y fijar las cejas.",
       size: "5ml",
       price: 13.75,
-      image: "https://ejemplo.com/gel-cejas.jpg",
+      image: "https://i.pinimg.com/564x/58/f9/d4/58f9d42808e136c62a275c4cdb832d7f.jpg",
       discount: 0
   },
   {
@@ -6042,7 +6040,7 @@ await prisma.stand.createMany({
       description: "Prebase para preparar la piel antes del maquillaje.",
       size: "30ml",
       price: 20.0,
-      image: "https://ejemplo.com/prebase-facial.jpg",
+      image: "https://i.pinimg.com/564x/70/35/04/703504ae5dd8943a6324dcbbabedccea.jpg",
       discount: 15
   },
   {
@@ -6050,7 +6048,7 @@ await prisma.stand.createMany({
       description: "Esmalte con amplia gama de colores y larga duración.",
       size: "10ml",
       price: 8.99,
-      image: "https://ejemplo.com/esmalte-unas.jpg",
+      image: "https://i.pinimg.com/564x/1e/39/40/1e3940711f85f12d98ee234de20da02b.jpg",
       discount: 0
   }
 
