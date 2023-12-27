@@ -28,8 +28,10 @@ export class ProductController {
     createSchema = yup.object({
         name: yup.string().required(),
         description: yup.string().required(),
-        price: yup.number().required()
-        
+        price: yup.number().required(),
+        size: yup.string().required(),
+        discount: yup.number().required(),
+        image: yup.string().required()        
     })
 
     public  createProduct = async(req: Request, res: Response) => {
@@ -37,7 +39,7 @@ export class ProductController {
         
         try{
             const requestData = await req.body;
-            const {  name, description, price} = await this.createSchema.validate({
+            const {  name, description, price,discount, size, image} = await this.createSchema.validate({
                 ...requestData,
                 
             });
@@ -45,7 +47,7 @@ export class ProductController {
            
             
             const product = await prisma.product.create({
-                data: { name, description, price} 
+                data: { name, description, discount, price, size, image} 
                 
             });
            
