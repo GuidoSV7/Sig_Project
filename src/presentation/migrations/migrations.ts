@@ -3982,6 +3982,344 @@ export class MigrationController {
               stand_id: 20
             },
 
+            //Dilker
+            {
+              // 	id: 1,
+                longitude: -63.18957063,
+                 latitude: -17.78104794, 
+                 order: 1,
+                 stand_id: 31
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18956922,
+                 latitude: -17.78110062, 
+                 order: 2,
+                 stand_id: 31
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18953647,
+                 latitude: -17.78110088, 
+                 order: 3,
+                 stand_id: 31
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18953691,
+                 latitude: -17.78104794, 
+                 order: 4,
+                 stand_id: 31
+              },
+              
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude:-63.18972326,
+                 latitude: -17.78104794, 
+                 order: 1,
+                 stand_id: 33
+              },
+              {
+              // 	id: 1,
+                longitude:-63.189649,
+                 latitude: -17.78104794, 
+                 order: 2,
+                 stand_id: 33
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18964949,
+                 latitude: -17.78110148, 
+                 order: 3,
+                 stand_id: 33
+              },
+              {
+              // 	id: 1,
+                longitude:-63.18972147,
+                 latitude: -17.78110207, 
+                 order: 4,
+                 stand_id: 33
+              },
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18978572,
+                 latitude: -17.78045153, 
+                 order: 1,
+                 stand_id: 105
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18975538,
+                 latitude: -17.78045212, 
+                 order: 2,
+                 stand_id: 105
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18975523,
+                 latitude: -17.78047983, 
+                 order: 3,
+                 stand_id: 105
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18978527,
+                 latitude: -17.78047917, 
+                 order: 4,
+                 stand_id: 105
+              },
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18985056,
+                 latitude: -17.7805473, 
+                 order: 1,
+                 stand_id: 103
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18981128,
+                 latitude: -17.7805473, 
+                 order: 2,
+                 stand_id: 103
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18981085,
+                 latitude: -17.78057348, 
+                 order: 3,
+                 stand_id: 103
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18985056,
+                 latitude: -17.78057348, 
+                 order: 4,
+                 stand_id: 103
+              },
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18981041,
+                 latitude: -17.78059987, 
+                 order: 1,
+                 stand_id: 98
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18985056,
+                 latitude: -17.78060084, 
+                 order: 2,
+                 stand_id: 98
+              },
+              {
+              // 	id: 1,
+                longitude:-63.18985056,
+                 latitude: -17.78057348, 
+                 order: 3,
+                 stand_id: 98
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18981085,
+                 latitude: -17.78057348, 
+                 order: 4,
+                 stand_id: 98
+              },
+              
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18978618,
+                 latitude: -17.78031466, 
+                 order: 1,
+                 stand_id: 108
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18976179,
+                 latitude: -17.78031526, 
+                 order: 2,
+                 stand_id: 108
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18976001,
+                 latitude: -17.7803682, 
+                 order: 3,
+                 stand_id: 108
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18978559,
+                 latitude: -17.7803682, 
+                 order: 4,
+                 stand_id: 108
+              },
+              
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18973404,
+                 latitude: -17.78033835, 
+                 order: 1,
+                 stand_id: 113
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18969629,
+                 latitude: -17.78033868, 
+                 order: 2,
+                 stand_id: 113
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18969598,
+                 latitude: -17.78039559, 
+                 order: 3,
+                 stand_id: 113
+              },
+              {
+              // 	id: 1,
+                longitude: -63.1897327,
+                 latitude:-17.78039543, 
+                 order: 4,
+                 stand_id: 113
+              },
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18947422,
+                 latitude: -17.78064122, 
+                 order: 1,
+                 stand_id: 140
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18944604,
+                 latitude: -17.78064147, 
+                 order: 2,
+                 stand_id: 140
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18944694,
+                 latitude: -17.78058615, 
+                 order: 3,
+                 stand_id: 140
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18947513,
+                 latitude: -17.7805859, 
+                 order: 4,
+                 stand_id: 140
+              },
+              
+              
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude: -63.18969772,
+                 latitude: -17.78027443, 
+                 order: 1,
+                 stand_id: 112
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18973555,
+                 latitude: -17.78027408, 
+                 order: 2,
+                 stand_id: 112
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18973404,
+                 latitude: -17.78033835, 
+                 order: 3,
+                 stand_id: 112
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18969629,
+                 latitude: -17.78033868, 
+                 order: 4,
+                 stand_id: 112
+              },
+              
+              
+              
+              
+              
+              
+              
+              {
+              // 	id: 1,
+                longitude:-63.18985638,
+                 latitude: -17.78027421, 
+                 order: 1,
+                 stand_id: 110
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18981771,
+                 latitude: -17.78027481, 
+                 order: 2,
+                 stand_id: 110
+              },
+              {
+              // 	id: 1,
+                longitude: -63.18981674,
+                 latitude: -17.78033915, 
+                 order: 3,
+                 stand_id: 110
+              },
+              {
+              // 	id: 1,
+                longitude: -63.1898554,
+                 latitude: -17.78033955, 
+                 order: 4,
+                 stand_id: 110
+              },
+
 
 
             //GUIDO SALAZAR VARGAS
@@ -4846,7 +5184,242 @@ await prisma.stand.createMany({
          urlPage: "https://www.local25@gmail.com"
       },
 
+      //Dilker
+      {
+        
+        name: "Accesorios para celular",
+        owner: "Modas michel",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627772/download_fuuvej.jpg",
+        direction: "Centro Comercial Cañoto | Local #31",
+        nr: "31",
+        longitude: -63.18955524,
+        latitude: -17.78107457,
+        phone: "921348576",
+        urlPage: "https://www.nvVxgqK9Ps.com"
+      },
+      {
+       
+        name: "Lupo lider",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627856/images_inkukm.jpg",
+        direction: "Centro Comercial Cañoto | Local #33",
+        nr: "33",
+        longitude: -63.18968492,
+        latitude: -17.78107397,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+     
+      {
+        
+        name: "Maflo Ideas",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627916/images_ntwbpl.jpg",
+        direction: "Centro Comercial Cañoto | Local #105",
+        nr: "105",
+        longitude: -63.18977132,
+        latitude: -17.78046605,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+       
+       name: "Melany cosmeticos y accesorio",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627124/apparel-1850804_1280_z9cmjq.jpg",
+        direction: "Centro Comercial Cañoto | Local #103",
+        nr: "103",
+        longitude:-63.18982843,
+        latitude: -17.78056004,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+        
+         name: "JCA repair",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627976/images_apwlqy.jpg",
+        direction: "Centro Comercial Cañoto | Local #98",
+        nr: "98",
+        longitude: -63.1898314,
+        latitude: -17.78058681,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+        
+         name: "Accesorios para celular",
+        owner: "Fashion y shine",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703628072/download_jfmziv.jpg",
+        direction: "Centro Comercial Cañoto | Local #108",
+        nr: "108",
+        longitude: -63.18977403,
+        latitude: -17.78034294,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+        
+        name: "Virtual Santa cruz",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703628252/images_bppfs4.jpg",
+        direction: "Centro Comercial Cañoto | Local #113",
+        nr: "113",
+        longitude:-63.18971217,
+        latitude: -17.78036674,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+        
+         name: "Kyoamerica bizhub s.r.l",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627040/como-disenar-el-escaparate-y-la-fachada-de-tu-tienda-de-moda-parfois-completa_ie8fw8.jpg",
+        direction: "Centro Comercial Cañoto | Local #140",
+        nr: "140",
+        longitude: -63.18945887,
+        latitude: -17.78061509,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+       
+         name: "Accesorios para celular",
+        owner: "Contrastes blow y lashes",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703627772/download_fuuvej.jpg",
+        direction: "Centro Comercial Cañoto | Local #112",
+        nr: "112",
+        longitude: -63.18971407,
+        latitude: -17.78030678,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+      {
+        
+         name: "Nutribell center",
+        owner: "Alexia Mercer",
+        image: "https://res.cloudinary.com/dirau81x6/image/upload/v1703628319/images_rdwjk3.jpg",
+        direction: "Centro Comercial Cañoto | Local #110",
+        nr: "110",
+        longitude: -63.18983685,
+        latitude: -17.78030678,
+        phone: "437691825",
+        urlPage: "https://www.k5eS74pzXQ.com"
+      },
+    
 
+      //Guido
+
+      {
+        name: "Friki center",
+        owner: "Alice Smith",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703639738/bkfymh8sisxuumle5gvh.jpg",
+        direction: "#13",
+        nr: "#13",
+        longitude: -63.18930599,
+        latitude: -17.78102484,
+        phone: "12345678",
+        urlPage: "https://www.pagina1.com"
+      },
+      {
+        name: "NOVEDADES EMILY",
+        owner: "Jordan Riley",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703640869/bunuetufdr5cqobzqyr1.jpg",
+        direction: "Centro Comercial Cañoto | Local #1",
+        nr: "1",
+        longitude: -63.18917988,
+        latitude: -17.78096952,
+        phone: "78452415",
+        urlPage: "https://www.local25@gmail.com"
+      },
+      {
+        name: "TEVETIENDAS",
+        owner: "Bob Johnson",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703640904/rwjud7daxea3zsbqhfck.webp",
+        direction: "#3",
+        nr: "#3",
+        longitude: -63.18921676,
+        latitude: -17.78097011,
+        phone: "87654321",
+        urlPage: "https://www.pagina2.com"
+      },
+      {
+        name: "NATURAL DIET",
+        owner: "Charlie Brown",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703640952/oamdyererqvmczugclfw.jpg",
+        direction: "#6",
+        nr: "#6",
+        longitude: -63.1892471,
+        latitude: -17.78097011,
+        phone: "56781234",
+        urlPage: "https://www.pagina3.com"
+      },
+      {
+        name: "CLAUDINA",
+        owner: "David Johnson",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703640979/iqmxtbojmgivvzpvyvac.jpg",
+        direction: "#7",
+        nr: "#7",
+        longitude: -63.18924532,
+        latitude: -17.78102484,
+        phone: "43215678",
+        urlPage: "https://www.pagina4.com"
+      },
+      {
+        name: "BOUTIQUE PINK STATION",
+        owner: "Ella Thompson",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703641018/lro4v7cdusylnutfabzs.jpg",
+        direction: "#16",
+        nr: "#16",
+        longitude: -63.18933395,
+        latitude: -17.78102484,
+        phone: "87654321",
+        urlPage: "https://www.pagina5.com"
+      },
+      {
+        name: "TKF levis",
+        owner: "Frank Williams",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703641062/tememm1hniaacjjwcgvt.webp",
+        direction: "#24",
+        nr: "#24",
+        longitude: -63.18939344,
+        latitude: -17.78113406,
+        phone: "56781234",
+        urlPage: "https://www.pagina6.com"
+      },
+      {
+        name: "BOUTIQUE ANGELICA",
+        owner: "Gloria Davis",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703641093/yfejsm5tozci5g3ifw1x.jpg",
+        direction: "#30",
+        nr: "#30",
+        longitude: -63.18951717,
+        latitude: -17.78107397,
+        phone: "12345678",
+        urlPage: "https://www.pagina7.com"
+      },
+      {
+        name: "Raliel",
+        owner: "Harry Thompson",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703641149/zwvo0msig12jc0ocpzgf.webp",
+        direction: "#60",
+        nr: "#60",
+        longitude: -63.18976299,
+        latitude: -17.78095651,
+        phone: "87654321",
+        urlPage: "https://www.pagina8.com"
+      },
+      {
+        name: "STAR JOYAS",
+        owner: "Ivy Johnson",
+        image: "http://res.cloudinary.com/da9xsfose/image/upload/v1703642800/mqlajnrnazdttaqjzt8c.jpg",
+        direction: "#61",
+        nr: "#61",
+        longitude: -63.18970707,
+        latitude: -17.78092677,
+        phone: "56781234",
+        urlPage: "https://www.pagina9.com"
+      },
       //Moises
       {
         // 	id: 41,
@@ -4974,6 +5547,9 @@ await prisma.stand.createMany({
 
   ]
   })
+
+
+
   
           
         
@@ -4989,6 +5565,12 @@ await prisma.stand.createMany({
                 },
     
             ]
+         })
+
+         await prisma.product.createMany({
+          data: [
+            
+          ]
          })
 
          await prisma.category.createMany({
