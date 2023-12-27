@@ -5569,7 +5569,495 @@ await prisma.stand.createMany({
 
          await prisma.product.createMany({
           data: [
-            
+            {
+              name: "Aceite de coco",
+              description: "Aceite natural para hidratar y nutrir el cabello.",
+              size: "100ml",
+              price: 10.99,
+              image: "https://ejemplo.com/aceite-coco.jpg",
+              discount: 0
+          },
+          {
+              name: "Aloe vera",
+              description: "Gel de aloe vera para fortalecer y dar brillo al cabello.",
+              size: "250ml",
+              price: 8.5,
+              image: "https://ejemplo.com/aloe-vera.jpg",
+              discount: 0
+          },
+          {
+              name: "Vinagre de manzana",
+              description: "Acondicionador natural para equilibrar el pH del cuero cabelludo.",
+              size: "500ml",
+              price: 7.25,
+              image: "https://ejemplo.com/vinagre-manzana.jpg",
+              discount: 0
+          },
+          {
+              name: "Miel",
+              description: "Mascarilla capilar para humectar y suavizar el cabello.",
+              size: "200g",
+              price: 12.0,
+              image: "https://ejemplo.com/miel.jpg",
+              discount: 0
+          },
+          {
+              name: "Aceite de argán",
+              description: "Aceite reparador para cabello seco y dañado.",
+              size: "50ml",
+              price: 15.75,
+              image: "https://ejemplo.com/aceite-argan.jpg",
+              discount: 0
+          },
+          {
+              name: "Aceite de jojoba",
+              description: "Aceite que ayuda a hidratar el cabello y combatir la caspa.",
+              size: "30ml",
+              price: 9.99,
+              image: "https://ejemplo.com/aceite-jojoba.jpg",
+              discount: 0
+          },
+          {
+              name: "Mascarilla de aguacate",
+              description: "Mascarilla nutritiva para cabello seco y quebradizo.",
+              size: "150g",
+              price: 11.5,
+              image: "https://ejemplo.com/mascarilla-aguacate.jpg",
+              discount: 0
+          },
+          {
+              name: "Henna natural",
+              description: "Tinte natural para dar color y brillo al cabello.",
+              size: "100g",
+              price: 6.75,
+              image: "https://ejemplo.com/henna.jpg",
+              discount: 0
+          },
+          {
+              name: "Infusión de romero",
+              description: "Infusión que estimula el crecimiento y fortalece el cabello.",
+              size: "250ml",
+              price: 8.0,
+              image: "https://ejemplo.com/infusion-romero.jpg",
+              discount: 0
+          },
+          {
+              name: "Manteca de karité",
+              description: "Crema hidratante para cabello seco y encrespado.",
+              size: "120g",
+              price: 14.25,
+              image: "https://ejemplo.com/manteca-karite.jpg",
+              discount: 0
+          },
+          {
+              name: "Té verde enjuague",
+              description: "Enjuague natural para dar brillo y suavidad al cabello.",
+              size: "300ml",
+              price: 9.5,
+              image: "https://ejemplo.com/te-verde.jpg",
+              discount: 0
+          },
+          {
+              name: "Gel de linaza",
+              description: "Gel que define rizos y controla el frizz del cabello.",
+              size: "200ml",
+              price: 7.99,
+              image: "https://ejemplo.com/gel-linaza.jpg",
+              discount: 0
+          },
+          {
+              name: "Aceite de almendra",
+              description: "Aceite que acondiciona y suaviza el cabello.",
+              size: "50ml",
+              price: 10.0,
+              image: "https://ejemplo.com/aceite-almendra.jpg",
+              discount: 0
+          },
+          {
+              name: "Champú de hierbas",
+              description: "Champú natural para limpiar y fortalecer el cabello.",
+              size: "400ml",
+              price: 12.99,
+              image: "https://ejemplo.com/champu-hierbas.jpg",
+              discount: 0
+          },
+          {
+              name: "Vitamina E en aceite",
+              description: "Vitamina E que nutre y protege el cabello de los daños.",
+              size: "15ml",
+              price: 6.25,
+              image: "https://ejemplo.com/vitamina-e.jpg",
+              discount: 0
+          },
+
+          {
+            name: "Funda protectora transparente",
+            description: "Funda delgada y transparente para proteger tu teléfono.",
+            size: "Compatible con varios modelos",
+            price: 8.99,
+            image: "https://ejemplo.com/funda-transparente.jpg",
+            discount: 0
+        },
+        {
+            name: "Protector de pantalla de vidrio templado",
+            description: "Protector resistente para evitar rayones en la pantalla.",
+            size: "Varios tamaños disponibles",
+            price: 12.5,
+            image: "https://ejemplo.com/protector-vidrio.jpg",
+            discount: 0
+        },
+        {
+            name: "Cargador portátil",
+            description: "Batería externa para cargar tu celular en cualquier lugar.",
+            size: "10,000mAh",
+            price: 24.0,
+            image: "https://ejemplo.com/cargador-portatil.jpg",
+            discount: 0
+        },
+        {
+            name: "Auriculares Bluetooth",
+            description: "Auriculares inalámbricos para una experiencia de audio sin cables.",
+            size: "Unidad",
+            price: 35.99,
+            image: "https://ejemplo.com/auriculares-bluetooth.jpg",
+            discount: 0
+        },
+        {
+            name: "Soporte para automóvil",
+            description: "Soporte ajustable para mantener tu teléfono en el auto.",
+            size: "Universal",
+            price: 16.75,
+            image: "https://ejemplo.com/soporte-automovil.jpg",
+            discount: 0
+        },
+        {
+            name: "Adaptador de corriente USB-C",
+            description: "Adaptador para cargar dispositivos con puerto USB-C.",
+            size: "1 unidad",
+            price: 9.5,
+            image: "https://ejemplo.com/adaptador-usb-c.jpg",
+            discount: 0
+        },
+        {
+            name: "Funda con batería integrada",
+            description: "Funda que protege tu teléfono y proporciona carga adicional.",
+            size: "Varios modelos compatibles",
+            price: 28.99,
+            image: "https://ejemplo.com/funda-bateria.jpg",
+            discount: 0
+        },
+        {
+            name: "Tarjeta de memoria microSD",
+            description: "Tarjeta para expandir la capacidad de almacenamiento del teléfono.",
+            size: "64GB",
+            price: 19.0,
+            image: "https://ejemplo.com/tarjeta-microsd.jpg",
+            discount: 0
+        },
+        {
+            name: "Cable USB reforzado",
+            description: "Cable resistente para cargar y transferir datos.",
+            size: "1 metro",
+            price: 11.25,
+            image: "https://ejemplo.com/cable-usb.jpg",
+            discount: 0
+        },
+        {
+            name: "Estuche resistente al agua",
+            description: "Estuche hermético para proteger tu teléfono del agua.",
+            size: "Universal",
+            price: 14.99,
+            image: "https://ejemplo.com/estuche-resistente-agua.jpg",
+            discount: 0
+        },
+
+        {
+          name: "Camisa de algodón",
+          description: "Camisa casual de algodón suave y cómoda.",
+          size: "Variedad de tallas y colores",
+          price: 29.99,
+          image: "https://ejemplo.com/camisa-algodon.jpg",
+          discount: 0
+      },
+      {
+          name: "Jeans ajustados",
+          description: "Pantalones vaqueros ajustados y modernos.",
+          size: "Disponible en tallas estándar",
+          price: 39.5,
+          image: "https://ejemplo.com/jeans-ajustados.jpg",
+          discount: 0
+      },
+      {
+          name: "Vestido floral",
+          description: "Vestido veraniego con estampado floral elegante.",
+          size: "Diversas tallas disponibles",
+          price: 45.0,
+          image: "https://ejemplo.com/vestido-floral.jpg",
+          discount: 10
+      },
+      {
+          name: "Sudadera con capucha",
+          description: "Sudadera cómoda con capucha y bolsillos frontales.",
+          size: "Variedad de colores y tallas",
+          price: 32.75,
+          image: "https://ejemplo.com/sudadera-capucha.jpg",
+          discount: 5
+      },
+      {
+          name: "Falda plisada",
+          description: "Falda elegante y plisada para cualquier ocasión.",
+          size: "Diferentes largos y colores",
+          price: 27.99,
+          image: "https://ejemplo.com/falda-plisada.jpg",
+          discount: 0
+      },
+      {
+          name: "Traje formal",
+          description: "Conjunto de traje formal para hombres.",
+          size: "Tallas variadas de chaqueta y pantalón",
+          price: 149.0,
+          image: "https://ejemplo.com/traje-formal.jpg",
+          discount: 20
+      },
+      {
+          name: "Leggings deportivos",
+          description: "Leggings cómodos y elásticos para entrenamientos.",
+          size: "Diversas tallas disponibles",
+          price: 22.5,
+          image: "https://ejemplo.com/leggings-deportivos.jpg",
+          discount: 0
+      },
+      {
+          name: "Chaqueta de cuero",
+          description: "Chaqueta clásica de cuero genuino para un estilo atemporal.",
+          size: "Variedad de tallas y colores",
+          price: 99.99,
+          image: "https://ejemplo.com/chaqueta-cuero.jpg",
+          discount: 15
+      },
+      {
+          name: "Blusa estampada",
+          description: "Blusa con estampado moderno y elegante.",
+          size: "Disponible en múltiples tallas",
+          price: 34.25,
+          image: "https://ejemplo.com/blusa-estampada.jpg",
+          discount: 0
+      },
+      {
+          name: "Shorts deportivos",
+          description: "Shorts ligeros y transpirables para actividades deportivas.",
+          size: "Diversas tallas y colores",
+          price: 19.0,
+          image: "https://ejemplo.com/shorts-deportivos.jpg",
+          discount: 8
+      },
+
+      {
+        name: "Cartuchos de tinta compatibles",
+        description: "Paquete de cartuchos de tinta de alta calidad para impresoras.",
+        size: "Pack de 4 cartuchos",
+        price: 49.99,
+        image: "https://ejemplo.com/cartuchos-tinta.jpg",
+        discount: 0
+    },
+    {
+        name: "Papel fotográfico brillante",
+        description: "Papel especial para imprimir fotos de alta resolución.",
+        size: "Pack de 50 hojas, tamaño 4x6 pulgadas",
+        price: 12.5,
+        image: "https://ejemplo.com/papel-fotografico.jpg",
+        discount: 0
+    },
+    {
+        name: "Rodillo de limpieza",
+        description: "Rodillo para mantener limpia la impresora y evitar atascos.",
+        size: "1 unidad",
+        price: 9.0,
+        image: "https://ejemplo.com/rodillo-limpieza.jpg",
+        discount: 0
+    },
+    {
+        name: "Cable USB para impresora",
+        description: "Cable USB de alta velocidad para conectar la impresora al ordenador.",
+        size: "1.5 metros",
+        price: 7.99,
+        image: "https://ejemplo.com/cable-usb-impresora.jpg",
+        discount: 0
+    },
+    {
+        name: "Kit de mantenimiento",
+        description: "Kit completo para el mantenimiento preventivo de la impresora.",
+        size: "Incluye herramientas y líquidos de limpieza",
+        price: 34.75,
+        image: "https://ejemplo.com/kit-mantenimiento.jpg",
+        discount: 0
+    },
+    {
+        name: "Almohadillas de recogida de tinta",
+        description: "Almohadillas de repuesto para la absorción de tinta residual.",
+        size: "Pack de 6 almohadillas",
+        price: 19.99,
+        image: "https://ejemplo.com/almohadillas-tinta.jpg",
+        discount: 0
+    },
+    {
+        name: "Fusor compatible",
+        description: "Fusor de repuesto compatible con modelos específicos de impresoras.",
+        size: "Para impresoras láser",
+        price: 89.0,
+        image: "https://ejemplo.com/fusor-compatible.jpg",
+        discount: 0
+    },
+    {
+        name: "Kit de montaje para impresora",
+        description: "Kit de montaje y ensamblaje para impresoras DIY.",
+        size: "Incluye piezas y herramientas",
+        price: 42.5,
+        image: "https://ejemplo.com/kit-montaje-impresora.jpg",
+        discount: 0
+    },
+    {
+        name: "Unidad de tambor láser",
+        description: "Unidad de tambor láser de reemplazo para impresoras láser.",
+        size: "Modelos compatibles disponibles",
+        price: 59.99,
+        image: "https://ejemplo.com/tambor-laser.jpg",
+        discount: 0
+    },
+    {
+        name: "Kit de actualización de impresora",
+        description: "Kit para actualizar y mejorar funciones de la impresora.",
+        size: "Incluye componentes electrónicos",
+        price: 55.0,
+        image: "https://ejemplo.com/kit-actualizacion.jpg",
+        discount: 0
+    },
+
+    {
+      name: "Base de maquillaje líquida",
+      description: "Base de cobertura media para un acabado natural.",
+      size: "30ml",
+      price: 22.99,
+      image: "https://ejemplo.com/base-maquillaje.jpg",
+      discount: 0
+  },
+  {
+      name: "Paleta de sombras de ojos",
+      description: "Paleta con variedad de colores para diferentes looks.",
+      size: "12 sombras",
+      price: 34.5,
+      image: "https://ejemplo.com/paleta-sombras.jpg",
+      discount: 10
+  },
+  {
+      name: "Labial mate de larga duración",
+      description: "Pintalabios con acabado mate y larga duración.",
+      size: "4.5g",
+      price: 18.0,
+      image: "https://ejemplo.com/labial-mate.jpg",
+      discount: 0
+  },
+  {
+      name: "Rímel voluminizador",
+      description: "Máscara de pestañas para volumen y longitud.",
+      size: "10ml",
+      price: 14.75,
+      image: "https://ejemplo.com/rimel-volumen.jpg",
+      discount: 5
+  },
+  {
+      name: "Corrector líquido",
+      description: "Corrector para disimular imperfecciones y ojeras.",
+      size: "8ml",
+      price: 12.99,
+      image: "https://ejemplo.com/corrector-liquido.jpg",
+      discount: 0
+  },
+  {
+      name: "Colorete en polvo",
+      description: "Rubor en polvo para dar un toque de color natural.",
+      size: "10g",
+      price: 19.99,
+      image: "https://ejemplo.com/colorete-polvo.jpg",
+      discount: 0
+  },
+  {
+      name: "Delineador líquido",
+      description: "Eyeliner líquido de larga duración y precisión.",
+      size: "3ml",
+      price: 10.5,
+      image: "https://ejemplo.com/delineador-liquido.jpg",
+      discount: 0
+  },
+  {
+      name: "Paleta de iluminadores",
+      description: "Paleta con iluminadores para resaltar facciones.",
+      size: "8 tonos",
+      price: 27.5,
+      image: "https://ejemplo.com/paleta-iluminadores.jpg",
+      discount: 0
+  },
+  {
+      name: "Lápiz labial de larga duración",
+      description: "Barra de labios de larga duración y acabado satinado.",
+      size: "3.8g",
+      price: 16.25,
+      image: "https://ejemplo.com/labial-larga-duracion.jpg",
+      discount: 0
+  },
+  {
+      name: "Spray fijador de maquillaje",
+      description: "Spray para fijar el maquillaje y prolongar su duración.",
+      size: "100ml",
+      price: 21.0,
+      image: "https://ejemplo.com/spray-fijador.jpg",
+      discount: 0
+  },
+  {
+      name: "Desmaquillante bifásico",
+      description: "Desmaquillante suave para ojos y labios.",
+      size: "150ml",
+      price: 9.5,
+      image: "https://ejemplo.com/desmaquillante-bifasico.jpg",
+      discount: 0
+  },
+  {
+      name: "Paleta de contouring",
+      description: "Paleta con tonos para contornear el rostro.",
+      size: "6 tonos",
+      price: 32.99,
+      image: "https://ejemplo.com/paleta-contouring.jpg",
+      discount: 0
+  },
+  {
+      name: "Gel para cejas",
+      description: "Gel para definir y fijar las cejas.",
+      size: "5ml",
+      price: 13.75,
+      image: "https://ejemplo.com/gel-cejas.jpg",
+      discount: 0
+  },
+  {
+      name: "Prebase facial",
+      description: "Prebase para preparar la piel antes del maquillaje.",
+      size: "30ml",
+      price: 20.0,
+      image: "https://ejemplo.com/prebase-facial.jpg",
+      discount: 15
+  },
+  {
+      name: "Esmalte de uñas",
+      description: "Esmalte con amplia gama de colores y larga duración.",
+      size: "10ml",
+      price: 8.99,
+      image: "https://ejemplo.com/esmalte-unas.jpg",
+      discount: 0
+  }
+
+
+  
+    
+      
           ]
          })
 

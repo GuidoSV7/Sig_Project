@@ -34,6 +34,7 @@ model Product{
   name      String
   description      String
   price     Float
+  size  String
   createdAt DateTime   @default(now())
   Inventory Inventory[]
   ProductHasCategory ProductHasCategories[]
